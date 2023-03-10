@@ -1,5 +1,5 @@
 # StudentAffairs
-A website designed to assist Student Affairs in managing student information.
+This website designed to assist Student Affairs in managing student information.
 
 ### Features
 - Add new student to the system.
